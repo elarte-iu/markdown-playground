@@ -14,7 +14,7 @@ Anyone can view a public repository, while you manage who can view a private one
 The "Add File" button.
 
 **Describe the steps you took to clone your repository on Github Desktop**  
-
+I opened the "file" tab and then hit the "clone repository" option, selected "markdown-playground," and then confirmed I wanted to clone it.
 
 **What is the title of GitHub documentation?**  
 A README file.
