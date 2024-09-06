@@ -25,16 +25,20 @@ https://github.com/elarte-iu/markdown-playground/tree/main#readme
 **Where is your local repository versus the remote repository?**  
 
 
-**What happens when you fetch?** 
+**What happens when you fetch?**  
 
-**What happens when you pull changes/commits?**
+
+**What happens when you pull changes/commits?**  
+
 
 **When working on GitHub Desktop, what order should you generally perform push, pull, and fetch?**
 First fetch, then pull the content, then push your edits back to GitHub.
 
-**What happens when you push commits from your local repository?**
+**What happens when you push commits from your local repository?**  
 
-**What is the URL for the Github glossary?**
+
+**What is the URL for the Github glossary?**  
+https://docs.github.com/en/get-started/learning-about-github/github-glossary
 
 **Where can you find a list of your commits?**
 
