@@ -20,7 +20,7 @@ I opened the "file" tab and then hit the "clone repository" option, selected "ma
 A README file.
 
 **What is the URL for GitHub documentation on creating your first repository?**  
-https://github.com/elarte-iu/markdown-playground/tree/main#readme
+https://docs.github.com/en/repositories/creating-and-managing-repositories/quickstart-for-repositories
 
 **Where is your local repository versus the remote repository?**  
 
