@@ -30,6 +30,7 @@ https://github.com/elarte-iu/markdown-playground/tree/main#readme
 **What happens when you pull changes/commits?**
 
 **When working on GitHub Desktop, what order should you generally perform push, pull, and fetch?**
+First fetch, then pull the content, then push your edits back to GitHub.
 
 **What happens when you push commits from your local repository?**
 
