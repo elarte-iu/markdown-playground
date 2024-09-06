@@ -4,22 +4,26 @@ Hello Indiana!
 ## Instructions
 In this lab, we'll be going through some basic tasks you'll need to do as you manage the GitHub repository for your CollectionBuilder site. The questions below are designed to help you learn and remember what you need to do to perform these tasks, as well as where you can go to look for help. 
 ## Creating your repository and editing files
-**What did you click on to create a new repository in the web interface of Github (i.e., on Github.com)?**
+**What did you click on to create a new repository in the web interface of Github (i.e., on Github.com)?**  
 In the web interface, from my Github homepage, I can press the green button with a bookmarked book icon labeled "New."
 
-**What is the difference between a private and a public repository?**
+**What is the difference between a private and a public repository?**  
 Anyone can view a public repository, while you manage who can view a private one.
 
-**Once your repository has been made and has at least one file, what button do you need to click on the web interface in order to create a new file in your repository?**
+**Once your repository has been made and has at least one file, what button do you need to click on the web interface in order to create a new file in your repository?**  
 The "Add File" button.
 
-**Describe the steps you took to clone your repository on Github Desktop**
+**Describe the steps you took to clone your repository on Github Desktop**  
 
-**What is the title of GitHub documentation?**
 
-**What is the URL for GitHub documentation on creating your first repository?**
+**What is the title of GitHub documentation?**  
+A README file.
 
-**Where is your local repository versus the remote repository?**
+**What is the URL for GitHub documentation on creating your first repository?**  
+https://github.com/elarte-iu/markdown-playground/tree/main#readme
+
+**Where is your local repository versus the remote repository?**  
+
 
 **What happens when you fetch?** 
 
