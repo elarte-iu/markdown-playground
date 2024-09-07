@@ -60,15 +60,14 @@ Two hashtags, ##
 surround the text with two tildes on each side ~~like this~~
 
 **How do you create a hyperlink in your markdown?**  
-
+You can create one [this way](https://github.com/elarte-iu/markdown-playground/blob/main/hello.md).
 
 **How do you link to a section in the same or another markdown file?**  
-
+You can link to a section by copying the URL found by clicking on the link on the side of a section heading. [Example](https://github.com/elarte-iu/markdown-playground/blob/main/hello.md#git-flavored-markdown)
 
 **What are the three possible symbols for indicating an unordered list?**  
 an asterisk, a dash, or a plus sign. (*, -, +)
 
 **Format the following text into a footnote:**  
-Main text: Alex Wingate went to William and Mary.(place footnote here)  
-Footnote text: William and Mary is a university in Williamsburg, VA founded in 1693.  
-Bonus: make "William and Mary" a hyperlink to W&M's website. 
+Main text: Alex Wingate went to William and Mary.[^1]
+[^1]: [William and Mary](https://www.wm.edu/) is a university in Williamsburg, VA founded in 1693. 
