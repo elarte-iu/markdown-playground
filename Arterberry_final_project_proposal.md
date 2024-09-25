@@ -19,7 +19,8 @@ The potential audience for this collection is vast, ranging from medical researc
 4.	**Describe types (media) of materials to be digitized and the number of each type (e.g. 12 letters (31 pages total); 14 photographs; 1 audio tape).  Include format, condition, and any special handling requirements.**  
 24 books; the covers of each will be digitized; standout anatomical illustrations may additionally be digitized if time allows. Many of these books are *extremely* old (1600s-1800s), and I am not in the digitization department, so if I am not able to digitize these books myself, I will opt to make their lives as easy as possible for helping me with this task. 
 
-5.	If the items to be digitized are held by an institution (e.g., IU Libraries, IU Archives of Traditional Music, Monroe County Historical Society), explain your collaboration and agreement with the institution for conducting this project.
+5.	**If the items to be digitized are held by an institution (e.g., IU Libraries, IU Archives of Traditional Music, Monroe County Historical Society), explain your collaboration and agreement with the institution for conducting this project.**  
+I am a Curatorial Assistant at the Lilly Library, where this collection is housed. My boss, Erin Chiparo, has given me permission to use this collection for my project and to potentially expand it after the course concludes.
 
 6.	**Do you have any existing descriptive information (i.e., metadata) that could be used for searching these materials? What descriptive information do you currently have (e.g., title, creator, date)? In what form does this descriptive information exist (on paper, in a Word document, in an Excel file, etc.)**  A few of the books in this collection have entries in IUCAT, so I can get some inspiration for my metadata scheme from it. Also, I developed my own scheme for work this past summer while working on drafting a finding aid for the Bushong-Beasley Dermatology Collection, so I will likely draw from that as well. 
 
@@ -28,11 +29,11 @@ Having put a lot of effort into reassembling this collection for my job, I would
 
 8.	**Other general comments, issues or concerns.**  My main concern is how much I'll be able to get digitized while relying on someone else; placeholder images may be necessary, depending on how much demand is placed on the Lilly's digitization department. Thus, hopefully it's understandable if a few of the visual representations of my items turn out to simply be JPEGs/scans from a phone. 
 
-9.	Indicate copyright status. Please refer to Cornell’s Copyright Information Center (https://copyright.cornell.edu/ and especially https://copyright.cornell.edu/publicdomain) for information to help you determine the copyright status of your materials.  Below, please explain your understanding of the copyright status of the material.
+9.	**Indicate copyright status. Please refer to Cornell’s Copyright Information Center (https://copyright.cornell.edu/ and especially https://copyright.cornell.edu/publicdomain) for information to help you determine the copyright status of your materials. Below, please explain your understanding of the copyright status of the material.**
 
-- [ ] Public domain
+- [+/-] Public domain
 - [ ] Owned and controlled by you 
 - [ ] Owned by someone else, but permission secured
 - [x] Situation unknown or unclear 
 
-**Copyright explanation:** The books are the Lilly's property; I need to discuss with my boss whether the Lilly family still has the ultimate say over what's done with the books in that collection. The books themselves (aside from a few published in the 1930s/40s) are well out of copyright, so they should otherwise be public domain. 
+**Copyright explanation:** The books themselves (aside from a few published in the 1930s/40s) are well out of copyright, so they should otherwise be public domain. 
